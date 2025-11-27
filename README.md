@@ -9,6 +9,8 @@
 - <b>Microsoft Azure</b>
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/Tawill4/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/Tawill4/azure-network-protocols)
+ - <b>Packet Tracer</b>
+    - [Downloading and Creating Networks with Packet Tracer](https://github.com/Tawill4/Packet-Tracer-Practice)
 
 <h2>🤳Connect with me:</h2>
 
